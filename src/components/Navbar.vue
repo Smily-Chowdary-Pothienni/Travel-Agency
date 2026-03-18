@@ -28,7 +28,7 @@ function closeMenu() {
           TA
         </span>
         <span class="text-sm font-semibold tracking-tight text-slate-50 transition group-hover:text-emerald-200 sm:text-base">
-          Travel Agency
+          Dream Mile Travels
         </span>
       </RouterLink>
 
