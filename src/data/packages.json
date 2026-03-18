@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "destination": "Amalfi Coast Escape · Italy",
+    "duration": "7 days · 6 nights",
+    "price": "$3,450",
+    "tag": "Coastal · Relaxed",
+    "description": "Clifftop boutique stays, private boat days along pastel villages, and slow evenings over limoncello.",
+    "included": "Flights, stays, daily breakfast, curated experiences",
+    "rating": "4.9",
+    "image": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/161901/cinque-terre-italy-houses-beach-161901.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/189833/pexels-photo-189833.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 2,
+    "destination": "Kyoto & Tokyo Contrast · Japan",
+    "duration": "9 days · 8 nights",
+    "price": "$4,120",
+    "tag": "Culture · City & Slow",
+    "description": "Morning temple walks, intimate tea ceremonies, and neon-lit nights in the world’s most dynamic city.",
+    "included": "Rail passes, stays, experiences, concierge support",
+    "rating": "5.0",
+    "image": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/161251/senso-ji-temple-japan-tokyo-161251.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/590478/pexels-photo-590478.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 3,
+    "destination": "Serengeti & Zanzibar · Tanzania",
+    "duration": "10 days · 9 nights",
+    "price": "$5,890",
+    "tag": "Safari · Beach",
+    "description": "Golden savannah game drives followed by powder-soft beaches and turquoise waters on the Indian Ocean.",
+    "included": "Safari lodges, flights, transfers, select meals",
+    "rating": "4.8",
+    "image": "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/267384/pexels-photo-267384.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 4,
+    "destination": "Bali Slow Living Retreat · Indonesia",
+    "duration": "8 days · 7 nights",
+    "price": "$2,980",
+    "tag": "Wellness · Culture",
+    "description": "Jungle villas in Ubud, sunrise yoga, and days spent between waterfalls, cafés, and rice terraces.",
+    "included": "Stays, breakfasts, transfers, select experiences",
+    "rating": "4.9",
+    "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2474689/pexels-photo-2474689.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/3214958/pexels-photo-3214958.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 5,
+    "destination": "Santorini & Mykonos Duo · Greece",
+    "duration": "7 days · 6 nights",
+    "price": "$3,250",
+    "tag": "Islands · Romance",
+    "description": "Whitewashed cliffs, caldera sunsets, and lazy afternoons by the Aegean in design-forward stays.",
+    "included": "Boutique hotels, ferries, breakfast, select tours",
+    "rating": "4.7",
+    "image": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2611690/pexels-photo-2611690.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 6,
+    "destination": "Iceland Fire & Ice Loop",
+    "duration": "6 days · 5 nights",
+    "price": "$3,980",
+    "tag": "Adventure · Scenic",
+    "description": "Waterfalls, black-sand beaches, geothermal spas, and glacier walks along the Ring Road.",
+    "included": "Self-drive SUV, stays, breakfast, key activities",
+    "rating": "4.8",
+    "image": "https://images.pexels.com/photos/326058/pexels-photo-326058.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/326058/pexels-photo-326058.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 7,
+    "destination": "Patagonia Peaks & Lakes · Chile & Argentina",
+    "duration": "11 days · 10 nights",
+    "price": "$6,450",
+    "tag": "Hiking · Wilderness",
+    "description": "Iconic treks in Torres del Paine, glacier viewpoints, and cozy lodges framed by jagged peaks.",
+    "included": "Guided hikes, park passes, lodges, select meals",
+    "rating": "4.9",
+    "image": "https://images.pexels.com/photos/672358/pexels-photo-672358.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/672358/pexels-photo-672358.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 8,
+    "destination": "Morocco Desert & Medina Trail",
+    "duration": "8 days · 7 nights",
+    "price": "$3,150",
+    "tag": "Culture · Desert",
+    "description": "Riads in Marrakech, Sahara camel rides, and lantern-lit dinners under sweeping desert skies.",
+    "included": "Stays, desert camp, transfers, select meals",
+    "rating": "4.6",
+    "image": "https://images.pexels.com/photos/2403205/pexels-photo-2403205.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/2403205/pexels-photo-2403205.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/3122799/pexels-photo-3122799.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/3881104/pexels-photo-3881104.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 9,
+    "destination": "New Zealand Road Trip · South Island",
+    "duration": "12 days · 11 nights",
+    "price": "$5,320",
+    "tag": "Road Trip · Nature",
+    "description": "Coastal drives, fjords, vineyards, and alpine towns stitched together into one epic loop.",
+    "included": "Rental car, boutique stays, key excursions",
+    "rating": "4.8",
+    "image": "https://images.pexels.com/photos/210307/pexels-photo-210307.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/210307/pexels-photo-210307.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/51947/milford-sound-new-zealand-51947.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/161121/pexels-photo-161121.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/38238/mountain-snow-alpine-rocky-mountains-38238.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 10,
+    "destination": "Paris, Provence & Riviera · France",
+    "duration": "9 days · 8 nights",
+    "price": "$4,540",
+    "tag": "City · Countryside",
+    "description": "Café mornings in Paris, lavender fields, and aperitivo hours along the Côte d’Azur.",
+    "included": "Rail, hotels, breakfasts, curated experiences",
+    "rating": "4.7",
+    "image": "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/236294/pexels-photo-236294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2521619/pexels-photo-2521619.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 11,
+    "destination": "Maldives Overwater Escape",
+    "duration": "6 days · 5 nights",
+    "price": "$5,990",
+    "tag": "Luxury · Beach",
+    "description": "Overwater villas, private sandbanks, and endless turquoise horizons built for pure reset.",
+    "included": "Resort stay, seaplane transfers, half-board",
+    "rating": "4.9",
+    "image": "https://images.pexels.com/photos/2581540/pexels-photo-2581540.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/2581540/pexels-photo-2581540.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  },
+  {
+    "id": 12,
+    "destination": "Canadian Rockies Lodge Hop",
+    "duration": "7 days · 6 nights",
+    "price": "$3,780",
+    "tag": "Mountains · Scenic",
+    "description": "Turquoise lakes, mountain passes, and fireplace lounges looking out over the Rockies.",
+    "included": "Stays, car rental, gondola & select activities",
+    "rating": "4.6",
+    "image": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "gallery": [
+      "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ]
+  }
+]
+
