@@ -1,5 +1,79 @@
-# Vue 3 + Vite
+# Dream Mile Travels
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Dream Mile Travels is a responsive travel agency website built with Vue 3, Tailwind CSS, and Vue Router. The website allows users to explore travel packages, search destinations, and book trips through a clean and modern interface.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Live Demo
+
+[View Live Website](https://travel-agency-five-sigma.vercel.app)
+
+## GitHub Repository
+
+[View Source Code](https://github.com/Smily-Chowdary-Pothienni/Travel-Agency)
+
+## Features
+
+- Responsive design for mobile, tablet, and desktop
+- Travel package exploration
+- Booking form for trip inquiries
+- Destination search functionality
+- Smooth scrolling experience
+- Multiple route-based pages using Vue Router
+
+## Tech Stack
+
+- Vue 3
+- Tailwind CSS
+- Vue Router
+- Vite
+
+## Project Setup
+
+### Install dependencies
+npm install
+
+### Run the development server
+npm run dev
+
+## Project Structure
+Travel-Agency/
+├── .vscode/
+├── public/
+├── src/
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── vite.svg
+│   │   └── vue.svg
+│   ├── components/
+│   │   ├── BookingForm.vue
+│   │   ├── FeaturedPackages.vue
+│   │   ├── HelloWorld.vue
+│   │   ├── HeroSection.vue
+│   │   ├── Navbar.vue
+│   │   └── TestimonialSection.vue
+│   ├── data/
+│   │   └── packages.json
+│   ├── router/
+│   │   └── index.js
+│   ├── views/
+│   ├── App.vue
+│   ├── main.js
+│   └── style.css
+├── .gitignore
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+├── vercel.json
+└── vite.config.js
+
+
+## Deployment
+This project is deployed in **Vercel**
+
+## About the Project
+This project was created as a modern travel agency website with a focus on user experience, responsive layout, and simple trip exploration. It is designed to provide a smooth browsing experience for users looking to discover destinations and plan travel easily.
+
+## Author 
+Smily Chowdary Pothineni
